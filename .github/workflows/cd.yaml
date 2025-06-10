@@ -1,4 +1,4 @@
-name: Deploy to Halo
+name: Build and Deploy to Halo
 
 on:
   push:
